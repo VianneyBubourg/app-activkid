@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}  
+a {
+    text-decoration: black;
+    color: black;
+}
+html { overflow-y: hidden;}
+
+.boutoncontinuer {
+    color: chartreuse;
+    text-decoration: none;
+}
+
+#haut {
+        height: 8% ;
+        
+        box-shadow: 0px 2px 10px #aaa;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px; 
+        background-color :  #3366FF;
+        top: 0;
+        width: 60px;
+        height: 63px;
+        margin-left: 5px;
+        padding-left: 5px;
+        padding-top: 6px;
+        position:fixed
+        
+        
+    }
+
+#bas{
+    height: 10% ;
+    border-radius: 14px;
+    
+    background-color: #3366FF;
+    bottom: 0;
+    
+    width: 100%;
+    
+    margin-bottom: 8px;
+    position:fixed 
+    
+}
+
+.lien {
+    text-align: center;
+}
+
+
